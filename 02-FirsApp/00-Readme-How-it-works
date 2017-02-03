@@ -1,0 +1,29 @@
+
+
+https://www.youtube.com/watch?v=tiMLxUKrB-g
+https://github.com/mschwarzmueller/nodejs-basics-tutorial
+-----------------------------------------------------------------------------------
+
+How to create the first application. with Node.js
+
+01-Configure the server by creating the file: "server.js"
+02-Open the terminal and CD ~to the folder with the "server.js" file
+03-Run the server by typing on therminal: node server.js
+	you will not get response, server is runing 
+04-Confirm server is runing by:
+	a) open browser
+	b) type localhost:8000
+	c) make sure that you got the message from the server. 
+05-Stop the server by typing on the terminal: Ctrl = C
+
+Project done, congratulations. 
+that was your first App in Node.js. 
+
+---------------------------- 
+
+Here we will continue building on this aplication. 
+
+see the changes made on the server.js file
+
+execute steps 02 to 05. 
+
